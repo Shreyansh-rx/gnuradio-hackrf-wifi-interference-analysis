@@ -44,13 +44,13 @@ It demonstrates the real-world impact of RF interference on standard 2.4 GHz Wi-
 ### 2. Experimental Setup & Captures
 *(Various captures during the analysis of the interference)*
 
-![Testing Screenshot 1](Screenshot%202025-10-18%20230211.png)
+![Testing Setup](test_setup.png)
 
-![Live Test 1](Screenshot%202025-11-19%20001649.png)
+![Live Test 1](live_test_1.png)
 
-![Live Test 2](Screenshot%202025-11-19%20004723.png)
+![Live Test 2](live_test_2.png)
 
-![Terminal Details](Screenshot%202025-11-19%20010254.png)
+![Terminal Details](terminal_details.png)
 
 ---
 
