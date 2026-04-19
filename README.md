@@ -59,7 +59,7 @@ It demonstrates the real-world impact of RF interference on standard 2.4 GHz Wi-
 By adjusting the RF gain and emitting targeted noise, the network performance degraded predictably.
 Below is the outcome mapped by the `live_iperf_graph.py` logic, demonstrating how the connection responds to active RF interference:
 
-![Throughput Results](Figure_1.png)
+![Throughput Results](throughput_results.png)
 
 **Key Findings:**
 - Throughput decreases with increasing RF noise.
